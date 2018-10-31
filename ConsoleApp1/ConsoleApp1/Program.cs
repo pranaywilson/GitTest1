@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             // Coded was added by DEV2
+            // Local added code
         }
     }
 }
