@@ -17,7 +17,11 @@ namespace ConsoleApp1
 
 
             // Code to call Feature1
+
+            // code from Feature 1 is added to local
             
+            // Some dev 4 added to master 
+            // Fresh change by batmand            
             
             // Some dev 5 be adding to code master
         }
