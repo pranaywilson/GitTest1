@@ -24,7 +24,7 @@ namespace ConsoleApp1
             // Fresh change by batmand            
 
 
-            // Feature 2
+            // Feature 2 // lets create a conflict 
             
             // Some dev 5 be adding to code master
         }
